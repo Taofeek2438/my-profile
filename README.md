@@ -51,7 +51,7 @@
 <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" style="margin-right: 10px;" alt="Nest JS" width="26" height="26"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="margin-right: 10px;" alt="Nest JS" width="26" height="26"/>
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="margin-right: 10px;" alt="Nest JS" width="26" height="26"/>
-<img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" style="margin-right: 10px;" alt="Nest JS" width="26" height="26"/>
+<!-- <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" style="margin-right: 10px;" alt="Nest JS" width="26" height="26"/> -->
 
 ## Github Stats
 
