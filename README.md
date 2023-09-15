@@ -19,39 +19,43 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<div style="display: flex; flex-direction: row;">
 
-<img align="left" style="margin-right: 10px;" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Visual Studio Code" width="26px" style="margin-right: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" style="margin-right: 10px;" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" style="margin-right: 6px;" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
-<img align="left" style="margin-right: 10px;" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" style="margin-right: 6px;" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" style="margin-right: 10px;" alt="Mongoose" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
+<img align="left" style="margin-right: 6px;" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 
-<img align="left" alt="JavaScript" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" style="margin-right: 6px;" alt="Mongoose" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
 
-<img align="left" style="margin-right: 10px;" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="JavaScript" style="margin-right: 6px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" style="margin-right: 10px;" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" style="margin-right: 6px;" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" style="margin-right: 10px;" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" style="margin-right: 6px;" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
-<img align="left" alt="Git" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" style="margin-right: 6px;" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img align="left" alt="SQL" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sql/sql.png" />
+<img align="left" alt="Git" style="margin-right: 6px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" style="margin-right: 10px;" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="SQL" style="margin-right: 6px;" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sql/sql.png" />
 
-<img align="left" style="margin-right: 10px;" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" style="margin-right: 6px;" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-<img align="left" style="margin-right: 10px;" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" style="margin-right: 6px;" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" style="margin-right: 10px;" alt="Nest JS" width="26" height="26"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" style="margin-right: 10px;" alt="Nest JS" width="26" height="26"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="margin-right: 10px;" alt="Nest JS" width="26" height="26"/>
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="margin-right: 10px;" alt="Nest JS" width="26" height="26"/>
-<!-- <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" style="margin-right: 10px;" alt="Nest JS" width="26" height="26"/> -->
+<img align="left" style="margin-right: 6px;" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" style="margin-right: 6px;" alt="Nest JS" width="26" height="26"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" style="margin-right: 6px;" alt="Vb" width="26" height="26"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="margin-right: 6px;" alt="Postman" width="26"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="margin-right: 6px;" alt="Postgresql" width="26" height="26"/>
+<!-- <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" style="margin-right: 6px;" alt="Nest JS" width="26" height="26"/> -->
+
+</div>
 
 ## Github Stats
 
