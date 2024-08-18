@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Taofeek?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTaofeek2438&screen_name=Taofeek%Dev)
 
-## I'm a FullStack Developer
+## I'm a FullStack Engineer
 
 - 👯 I’m looking to collaborate with devs on projects
 - 🥅 Everyday Goal: Improve my skills
